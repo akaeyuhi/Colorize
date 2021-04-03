@@ -1,0 +1,26 @@
+{
+  "name": "colorize",
+  "version": "0.0.1",
+  "description": "Lighweight Node.Js library for colorized console output",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoSuimin/Colorize.git"
+  },
+  "keywords": [
+    "node.js",
+    "color",
+    "console",
+    "style",
+    "javascript"
+  ],
+  "author": "NekoSuimin",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/NekoSuimin/Colorize/issues"
+  },
+  "homepage": "https://github.com/NekoSuimin/Colorize#readme"
+}
