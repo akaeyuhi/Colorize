@@ -5,6 +5,10 @@
 $ npm i node-colorize -g
 ```
 ### Usage
+Import module by using 
+```javascript
+const colored = require('node-colorize');
+```
 Create new instanse of Colorize class: 
 ```javascript
 const colored = new Colorize();
