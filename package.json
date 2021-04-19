@@ -1,5 +1,5 @@
 {
-  "name": "colorized",
+  "name": "node-colorize",
   "version": "0.0.2",
   "description": "Lighweight Node.Js library for colorized console output",
   "main": "index.js",

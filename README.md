@@ -1,8 +1,8 @@
 # Colorize
 ### Lighweight Node.Js library for colorized console output
-#### I didn't publish this on npm, but you can use basic functions by including index.js in your project
-```javascript
-const { Colorize } = require('./index.js');
+#### Install
+```sh
+$ npm i node-colorize -g
 ```
 ### Usage
 Create new instanse of Colorize class: 
